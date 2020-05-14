@@ -1,7 +1,6 @@
-package bojQ1697;
+package boj.bojQ1697;
 
 import java.util.HashSet;
-import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Set;

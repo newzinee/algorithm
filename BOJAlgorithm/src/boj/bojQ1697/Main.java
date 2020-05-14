@@ -1,4 +1,4 @@
-package bojQ1697;
+package boj.bojQ1697;
 
 import java.util.HashSet;
 import java.util.Queue;

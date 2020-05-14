@@ -1,4 +1,4 @@
-package bojQ2439;
+package boj.bojQ2439;
 
 import java.util.Scanner;
 

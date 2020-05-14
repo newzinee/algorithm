@@ -1,4 +1,4 @@
-package bojQ1697;
+package boj.bojQ1697;
 
 
 import org.junit.Test;
