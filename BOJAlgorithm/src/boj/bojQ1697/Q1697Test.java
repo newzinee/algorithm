@@ -1,6 +1,6 @@
 package boj.bojQ1697;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 public class Q1697Test {
 	int start;
