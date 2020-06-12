@@ -5,7 +5,7 @@ import org.junit.Test;
 
 /**
  * https://programmers.co.kr/learn/courses/30/lessons/12924
- * 연습문제 > 숫자의 표
+ * 연습문제 > 숫자의 표현
  */
 public class Q12924 {
     public int solution(int n) {
